@@ -13,7 +13,7 @@
 
 ## 💻 O Porque Das Minhas Escolhas Técnicas
 
-#### Dividi a aplicação em 6 pastas onde agora apenas 4 estão visiveis.
+#### Dividi a aplicação em 6 pastas onde agora apenas 3 estão visiveis.
 Na controllers é onde deixamos toda funcionalidade do sistema separado em funções 
 exemplo: Função A - Registra usuário
  Função B - Faz autentificação do usuário
